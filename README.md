@@ -11,6 +11,9 @@ I am a senior at the University of Notre Dame majoring in Physics with minors in
 - Netlogo
 - Stata
 
+## Projects
+https://github.com/cccraven07/Craven-Data-Science-Portfolio
+
 
 <!--
 **cccraven07/cccraven07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
