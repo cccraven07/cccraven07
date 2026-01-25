@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+## About Me
+I am a senior at the University of Notre Dame majoring in Physics with minors in Data Science and Philosophy, Politics, and Economics (PPE) graduating in May 2026. My work focuses on using quantitative tools to study complex systems across both physical and social sciences. 
+
+## Technical Skills
+- Python
+- R
+- Jupyter
+- Git
+- Netlogo
+- Stata
+
+
 <!--
 **cccraven07/cccraven07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
