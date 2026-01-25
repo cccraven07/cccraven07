@@ -12,7 +12,7 @@ I am a senior at the University of Notre Dame majoring in Physics with minors in
 - Stata
 
 ## Projects
-https://github.com/cccraven07/Craven-Data-Science-Portfolio
+[Data Science Portfolio](https://github.com/cccraven07/Craven-Data-Science-Portfolio)
 
 
 <!--
