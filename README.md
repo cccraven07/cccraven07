@@ -3,8 +3,8 @@ I am a senior at the University of Notre Dame majoring in Physics with minors in
 
 - 🔭 I’m currently working as a research assistant studying how to incorporate satellite data into wartime reporting
 - 🌱 I’m currently learning how apply Python and data science methods to study real-world social science problems
+- 🎯 This semester, I hope to build an organized, professional data science portfolio that showcases some of my projects. 
 - ⚡ In my free time, I enjoy playing pickup basketball and exploring classic literature. 
-- 📫 How to reach me: ccraven@nd.edu
 
 ## Technical Skills
 <div style="display: flex; align-items: center; gap: 10px;">
@@ -23,6 +23,11 @@ I am a senior at the University of Notre Dame majoring in Physics with minors in
 ## Projects
 [Data Science Portfolio](https://github.com/cccraven07/Craven-Data-Science-Portfolio)
 
+## How to Reach Me:
+ccraven@nd.edu  
+[LinkedIn](https://www.linkedin.com/in/colin-craven/)
+
+
 
 <!--
 **cccraven07/cccraven07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,4 +42,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🎯
 -->
