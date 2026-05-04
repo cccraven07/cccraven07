@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Colin Craven
 
 ## 🚀 Physics & Data Science student working on computational and data-driven problems 
-📍 University of Notre Dame (Class of 2026)  📧 ccraven@nd.edu  🔗 [LinkedIn](https://www.linkedin.com/in/colin-craven/)  
+📍 University of Notre Dame (Class of 2026)    📧 ccraven@nd.edu    🔗 [LinkedIn](https://www.linkedin.com/in/colin-craven/)  
 
 ---
 
 ## 🌐 About Me
 
-I am a Physics major with minors in Data Science and PPE at the University of Notre Dame. I focus on applying quantitative and computational methods to real-world problems in both scientific and social systems.
+I am a graduating Physics student at the University of Notre Dame with experience applying quantitative and computational methods to real-world problems across scientific and social systems. My work involves statistical modeling, machine learning, and building interactive tools to explore real-world data.
 
 ## 🎓 Education
 University of Notre Dame — B.S. Physics  
-Minors: Data Science, Philosophy, Politics, and Economics (PPE)  
+Minors: Data Science | Philosophy, Politics, and Economics (PPE)  
 Expected Graduation: May 2026
 
 ## 🛠 Skills & Interests
@@ -30,9 +30,7 @@ Expected Graduation: May 2026
 
 ## 📌 Portfolio Repository
 
-All projects are part of my data science portfolio:
-
-👉[Data Science Portfolio](https://github.com/cccraven07/Craven-Data-Science-Portfolio)
+Selected projects are part of my [Data Science Portfolio](https://github.com/cccraven07/Craven-Data-Science-Portfolio)
 
 ## Technical Skills
 <p style="white-space: nowrap;">
