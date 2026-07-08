@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Colin Craven
 
 ## 🚀 Physics & Data Science student working on computational and data-driven problems 
-📍 University of Notre Dame (Class of 2026)    📧 ccraven@nd.edu    🔗 [LinkedIn](https://www.linkedin.com/in/colin-craven/)  
+📍 University of Notre Dame (Class of 2026)    📧 craveneg@yahoo.com    🔗 [LinkedIn](https://www.linkedin.com/in/colin-craven/)  
 
 ---
 
